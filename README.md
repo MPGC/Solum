@@ -1,4 +1,4 @@
-# Solum web project
+# Solum website project
 Website project
 
 ## Getting Started 🚀
