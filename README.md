@@ -2,7 +2,7 @@
 Website project
 
 ## Getting Started 🚀
-Please you can have a look just here: https://mpgc.github.io/Solum/?page_id=145
+Please you can have a look just here (Github only allows to see a static website): https://mpgc.github.io/Solum/?page_id=145
 
 ## Built with 🛠️
 
